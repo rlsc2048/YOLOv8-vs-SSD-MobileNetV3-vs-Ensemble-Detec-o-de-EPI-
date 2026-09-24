@@ -15,8 +15,12 @@ O experimento foi desenvolvido em **Google Colab**, utilizando GPU para treiname
 
 ## Integrantes
 
-* `<Nome do integrante 1>`
-* `<Nome do integrante 2>`
+* `Patrícia Leão`
+* `Erinaldo Ferreira`
+* `Reginaldo Paiva`
+* `Carlos André`
+* `Elayne Lima`
+* `Rodrigo Couto`
 
 ---
 
