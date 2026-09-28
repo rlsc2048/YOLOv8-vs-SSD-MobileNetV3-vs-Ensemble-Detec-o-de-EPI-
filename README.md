@@ -15,12 +15,12 @@ O experimento foi desenvolvido em **Google Colab**, utilizando GPU para treiname
 
 ## Integrantes
 
-* `Patrícia Leão`
-* `Erinaldo Ferreira`
-* `Reginaldo Paiva`
-* `Carlos André`
-* `Elayne Lima`
-* `Rodrigo Couto`
+* `Patrícia de Souza Leão silva`
+* `Erinaldo Ferreira dos Santos`
+* `Reginaldo Paiva de Oliveira Junior`
+* `Carlos André Pereira de Lucena`
+* `Elayne Lima Santos`
+* `Rodrigo Luiz de Souza Couto`
 
 ---
 
